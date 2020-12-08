@@ -48,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   $ git clone https://github.com/roperes98/NLW-2-mobile.git
 
   # Entrar no diretório
-  $ cd Poc-ReactNative
+  $ cd NLW-2-mobile
 
   # instalar as dependências
   $ yarn install
